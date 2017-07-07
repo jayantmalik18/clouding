@@ -22,12 +22,12 @@
     "host": "127.0.0.1"
   },
   "client": {
-    "downloads": "http://jayantmalik18.hostingvala.com/downloads/",
+    "downloads": "downloads/",
     "updateTimeout": 3000,
     "timeout": 300000
   },
   "directory": {
-    "path": "http://jayantmalik18.hostingvala.com/files/"
+    "path": "files/"
   },
   "torrent": {
     "downloads": "downloads/",
